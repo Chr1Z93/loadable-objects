@@ -1218,6 +1218,15 @@
       "description": ""
     },
     {
+      "name": "Fan Scenario: Monstrosity from the Ravenwoods",
+      "url": "fancreations/scenario_ravenwoods.json",
+      "replace": "5b9dd6",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2383054561645151287/814A8368052B967AE406A1F576E48660F404E35C/",
+      "author": "Ubique Sajan",
+      "description": "Fan-made standalone scenario from The Witcher Horror cycle."
+    },
+    {
       "name": "Fan Scenario: Miskatonic Mouse",
       "url": "fancreations/scenario_miskatonic_mouse.json",
       "replace": "6defb8",
