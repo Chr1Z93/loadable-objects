@@ -480,6 +480,14 @@
       "description": "Contains five investigators and 180+ player cards."
     },
     {
+      "name": "Fan Investigators: Forget Me Not - Investigator Expansion",
+      "url": "fancreations/investigators_forget_me_not.json",
+      "boxsize": "small",
+      "boxart": "https://i.ibb.co/GTVr0Kq/Fm-N-Investigator-Box.png",
+      "author": "TomásAmi",
+      "description": "An Arkham lore-friendly fan-expansion. Horror is brewing in Buenos Aires, Argentina, and some new investigators are trapped in the middle of it."
+    },
+    {
       "name": "Fan Investigators: Fortune or Folly - Parallel Rex Murphy",
       "url": "fancreations/investigators_fortune_or_folly_parallel_rex.json",
       "replace": "7fa06f",
@@ -552,6 +560,14 @@
       "description": "This expansion contains five investigators from the Monogatari series and more than 100 player cards (there is a related campaign, too!)."
     },
     {
+      "name": "Fan Investigators: Legends Retold - WU Kingdom",
+      "url": "fancreations/investigators_legends_retold_wu_kingdom.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2467500859729905722/9BFA85F33D96EF6C7720C1C1B2D3B0CF7FA17BF1/",
+      "author": "Popest",
+      "description": "This is a fan-made investigator expansion, inspired by the card game Legends of the Three Kingdoms. It introduces 15 double-sided investigators, divided among the three Kingdoms: SHU, WEI, and WU — with 5 investigators from each Kingdom."
+    },
+    {
       "name": "Fan Investigators: Limbus Company",
       "url": "fancreations/investigators_limbus_company.json",
       "replace": "1b7c90",
@@ -586,6 +602,14 @@
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1667985852037525429/FFCBAFD8EF7EFD1127F4482DF01FFD8AE9638B4D/",
       "author": "Erdjo",
       "description": "Mass Effect characters come to life in Arkham Horror LCG as playable investigators. The mod includes Shepard and all 19 squad members (but not Morinth)."
+    },
+    {
+      "name": "Fan Investigators: Max Blackwood - Minipack",
+      "url": "fancreations/investigators_max_blackwood.json",
+      "boxsize": "small",
+      "boxart": "https://i.ibb.co/M8KK36T/max-box-cover.jpg",
+      "author": "Moonshie",
+      "description": "Max Blackwood is a Rogue 0/Guardian 1-5 investigator geared to dual-wield one-handed weapons. This pack also 11 cards of various levels to supplement the playstyle."
     },
     {
       "name": "Fan Investigators: Maximillion Pegasus",
@@ -640,6 +664,38 @@
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1870696131168385409/48A07CF6F003EDDBE863547AC3F0604B45EE14E1/",
       "author": "TheBeard",
       "description": ""
+    },
+    {
+      "name": "Fan Investigators: Popest's Animated Cards Vol. 1",
+      "url": "fancreations/investigators_popests_animated_cards_vol_1.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2467499590559828843/6393283744A559F96EE63AFDBBBF71B45CD14428/",
+      "author": "Popest",
+      "description": "Instructions: Put this box into the 'Additional Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes! Scenario cards can not be automatically replaced at the moment."
+    },
+    {
+      "name": "Fan Investigators: Popest's Animated Cards Vol. 2",
+      "url": "fancreations/investigators_popests_animated_cards_vol_2.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2467500224816195194/E3BA2DE01A71DFC0C6310A39B01C830AA199B1FA/",
+      "author": "Popest",
+      "description": "Instructions: Put this box into the 'Additional Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes! Scenario cards can not be automatically replaced at the moment."
+    },
+    {
+      "name": "Fan Investigators: Popest's Borderless Cards Vol. 1",
+      "url": "fancreations/investigators_popests_borderless_cards_vol_1.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2467499590559827666/78E7277F93C5DF2A4A4A217C6587FC3E985BB7C2/",
+      "author": "Popest",
+      "description": "Instructions: Put this box into the 'Additional Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes! Scenario cards can not be automatically replaced at the moment."
+    },
+    {
+      "name": "Fan Investigators: Popest's Borderless Cards Vol. 2",
+      "url": "fancreations/investigators_popests_borderless_cards_vol_2.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2467499590593043147/92EF00310AAF58EE391E34F7529EB4504D1BDC02/",
+      "author": "Popest",
+      "description": "Instructions: Put this box into the 'Additional Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes! Scenario cards can not be automatically replaced at the moment."
     },
     {
       "name": "Fan Investigators: Rabbit Hole Expansion",
