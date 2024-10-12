@@ -560,6 +560,14 @@
       "description": "This expansion contains five investigators from the Monogatari series and more than 100 player cards (there is a related campaign, too!)."
     },
     {
+      "name": "Fan Investigators: Legends Retold - SHU Kingdom",
+      "url": "fancreations/investigators_legends_retold_shu_kingdom.json",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2469750756894231981/BA50EC09FA42029459564B4D53744EA73035BE79/",
+      "author": "Popest",
+      "description": "This is a fan-made investigator expansion, inspired by the card game Legends of the Three Kingdoms. It introduces 15 double-sided investigators, divided among the three Kingdoms: SHU, WEI, and WU — with 5 investigators from each Kingdom."
+    },
+    {
       "name": "Fan Investigators: Legends Retold - WU Kingdom",
       "url": "fancreations/investigators_legends_retold_wu_kingdom.json",
       "boxsize": "small",
