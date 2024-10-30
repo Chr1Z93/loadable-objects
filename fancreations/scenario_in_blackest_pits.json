@@ -311,7 +311,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -522,7 +522,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -649,7 +649,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -702,7 +702,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -755,7 +755,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -808,7 +808,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -861,7 +861,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -914,7 +914,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -967,7 +967,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -1020,7 +1020,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -1073,7 +1073,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": false,
                   "Type": 0
                 }
@@ -1128,7 +1128,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -1183,7 +1183,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -1710,7 +1710,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -2079,7 +2079,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -2154,7 +2154,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": false,
           "Type": 0
         }
@@ -2501,7 +2501,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745935933/00A07FDC14D1E0EF77D6A2A314E3779A36B7049D/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3155,7 +3155,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -3424,7 +3424,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": false,
           "Type": 0
         }
@@ -3477,7 +3477,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3530,7 +3530,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3583,7 +3583,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3636,7 +3636,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3689,7 +3689,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745904727/C63C2F64FD36C52E3789FE0AF90911B9C720A8DC/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": false,
               "Type": 0
             }
@@ -3902,7 +3902,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -3959,7 +3959,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
@@ -4012,7 +4012,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4065,7 +4065,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4118,7 +4118,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4219,7 +4219,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4272,7 +4272,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4325,7 +4325,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4378,7 +4378,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4437,7 +4437,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4490,7 +4490,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4543,7 +4543,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4596,7 +4596,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4655,7 +4655,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4708,7 +4708,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4761,7 +4761,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4814,7 +4814,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4873,7 +4873,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -4926,7 +4926,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -4979,7 +4979,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -5032,7 +5032,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -5091,7 +5091,7 @@
               "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
               "NumWidth": 10,
               "NumHeight": 7,
-              "BackIsHidden": false,
+              "BackIsHidden": true,
               "UniqueBack": true,
               "Type": 0
             }
@@ -5144,7 +5144,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -5197,7 +5197,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -5250,7 +5250,7 @@
                   "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745841494/EE40BE77FC533E72EAA42315121D5119A47C9602/",
                   "NumWidth": 10,
                   "NumHeight": 7,
-                  "BackIsHidden": false,
+                  "BackIsHidden": true,
                   "UniqueBack": true,
                   "Type": 0
                 }
@@ -5307,7 +5307,7 @@
           "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/788633557745886171/FA62DE604ADF62E6A6116D77866AF44035510775/",
           "NumWidth": 10,
           "NumHeight": 7,
-          "BackIsHidden": false,
+          "BackIsHidden": true,
           "UniqueBack": true,
           "Type": 0
         }
